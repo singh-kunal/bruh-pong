@@ -1,4 +1,4 @@
 # bruh-pong
-### unfinished project xP
+### unfinished project but, I'm satisfied so yeah xP
 
 
